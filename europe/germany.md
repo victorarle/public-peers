@@ -56,6 +56,9 @@ Yggdrasil configuration file to peer with these nodes.
 
 * Frankfurt, DigitalOcean, 2Gbps, operated by [avevad](https://t.me/avevad)
   * `tls://helium.avevad.com:1337`
+
+* Frankfurt, DigitalOcean, operated by vito
+  * `tls://64.226.122.118:10000`
  
 * Frankfurt, VPS, public node, operated by [Orbit173](https://github.com/Orbit173), 1Gbit/s
   * `tls://103.109.234.106:443?key=000000035621c71b5610434589df051aed2688510f904ae79860668dc0fbf182`
